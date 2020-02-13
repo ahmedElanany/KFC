@@ -1,2 +1,2 @@
 # KFC
-That is KFC 
+KFC WebSite Practice
